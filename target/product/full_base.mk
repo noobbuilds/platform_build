@@ -23,15 +23,6 @@ PRODUCT_PACKAGES := \
     libfwdlockengine \
     WAPPushManager
 
-PRODUCT_PACKAGES += \
-    Galaxy4 \
-    HoloSpiralWallpaper \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    MagicSmokeWallpapers \
-    NoiseField \
-    PhaseBeam \
-    PhotoTable
 
 # Bluetooth:
 #   audio.a2dp.default is a system module. Generic system image includes
