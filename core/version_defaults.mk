@@ -183,6 +183,7 @@ ifndef PLATFORM_SECURITY_PATCH
     #  If there is no $PLATFORM_SECURITY_PATCH set, keep it empty.
 
       PLATFORM_SECURITY_PATCH := 2018-07-05
+endif
 
 ifndef PLATFORM_BASE_OS
   # Used to indicate the base os applied to the device.
